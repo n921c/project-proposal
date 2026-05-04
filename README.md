@@ -77,15 +77,15 @@ Directions:
 
 **Group members completing elective:**
 
-
+[delete this line and enter your own text here]
 
 **Elective idea:**
 
-
+[delete this line and enter your own text here]
 
 **Elective plan:**
 
-
+[delete this line and enter your own text here]
 
 
 
