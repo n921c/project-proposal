@@ -8,9 +8,10 @@ Directions:
 - Practice pulling, making changes, staging/committing/pushing to the same repo.
 - **Communicate about who is doing what throughout the entire process.**
 
-What you will submit:
+What you will submit on Friday the 15th:
 
-- a link to your forked repository with the completed proposal in the README
+- proposal: a link to your forked repository with the completed proposal in the README
+- work plan: your paper plan that you completed in class on Monday the 4th
 
 Use your project proposal to:
 
