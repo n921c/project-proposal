@@ -8,6 +8,17 @@ Directions:
 - Practice pulling, making changes, staging/committing/pushing to the same repo.
 - **Communicate about who is doing what throughout the entire process.**
 
+What you will submit:
+
+- a link to your forked repository with the completed proposal in the README
+
+Use your project proposal to:
+
+- refer back to the original plan while you are working
+- keep track of high-level changes in structure (e.g. role switching, elective modifications)
+
+**Note that your project proposal is subject to change after you learn more about your datasets and what is possible - allow yourselves the flexibility to make adjustments as needed.**
+
 ## Group members
 
 [delete this line and enter your names here]
