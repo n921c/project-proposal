@@ -1,6 +1,12 @@
-# Group project structure and planning
+# Group project proposal
 
 **Spring 2026**
+
+Directions:
+
+- Use your work plan from class to fill in the information below.
+- Practice pulling, making changes, staging/committing/pushing to the same repo.
+- **Communicate about who is doing what throughout the entire process.**
 
 ## Group members
 
