@@ -94,9 +94,17 @@ Use your project proposal to:
 
 [delete this line and enter your own text here]
 
-**Elective plan:**
+**Elective timeline (what you will have completed each week):**
 
-[delete this line and enter your own text here]
+Week 7: enter your own text here
+
+Week 8 (timeline check in): enter your own text here
+
+Week 9: enter your own text here
+
+Week 10: enter your own text here
+
+Finals week: enter your own text here
 
 
 
