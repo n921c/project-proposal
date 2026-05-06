@@ -5,7 +5,7 @@
 Directions:
 
 - Use your work plan from class to fill in the information below.
-- Practice pulling, making changes, staging/committing/pushing to the same repo.
+- Practice pulling, making changes, staging/committing/pulling/pushing to the same repo.
 - **Communicate about who is doing what throughout the entire process.**
 
 What you will submit on Friday the 15th:
@@ -18,7 +18,10 @@ Use your project proposal to:
 - refer back to the original plan while you are working
 - keep track of high-level changes in structure (e.g. role switching, elective modifications)
 
-**Note that your project proposal is subject to change after you learn more about your datasets and what is possible - allow yourselves the flexibility to make adjustments as needed.**
+Note:
+
+- your project proposal is subject to change after you learn more about your datasets and what is possible - allow yourselves the flexibility to make adjustments as needed
+- the more detail you can provide in your proposal, the more thorough your feedback will be
 
 ## Group members
 
