@@ -33,11 +33,11 @@ Aquatic Squad
 
 ## Topic information and question
 
-Aquatic Invertebrates: What is the strength of the relationship between water temperature and invertebrate abundance (response variable)?
+Aquatic Invertebrates
 
 **Question(s):**  
 
-[delete this line and enter your bullet point list here]
+What is the strength of the relationship between water temperature and invertebrate abundance (response variable)?
 
 **Response variable(s)**
 
