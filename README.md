@@ -41,13 +41,14 @@ What is the strength of the relationship between water temperature and invertebr
 
 **Response variable(s)**
 
-[delete this line and enter your bullet point list here]
+Invertebrate abundance
 
 ## Datasets
 
 **Datasets used:**
 
-[delete this line and enter your bullet point list here]
+- taxon_list.csv
+- Aquatic Sampling Data-2026-03-10.xlsx
 
 ## Figures
 
@@ -75,26 +76,26 @@ What is the strength of the relationship between water temperature and invertebr
 
 **Natural history/framing director:**
 
-[delete this line and enter your own text here]
+June
 
 **Stats and visualization director**
 
-[delete this line and enter your own text here]
+Linda
 
 **GitHub/code director**
 
-[delete this line and enter your own text here]
+Natalie
 
 
 ## Elective (not required for all groups or group members)
 
 **Group members completing elective:**
 
-[delete this line and enter your own text here]
+June, Linda, Natalie
 
 **Elective idea:**
 
-[delete this line and enter your own text here]
+2D collage/drawing of copepod, ostracod, and cladoceran. Color based on abundance for a range of water temperatures
 
 **Elective timeline (what you will have completed each week):**
 
