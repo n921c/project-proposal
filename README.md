@@ -25,17 +25,15 @@ Note:
 
 ## Group members
 
-[delete this line and enter your names here]
+Natalie Chen, Linda Herrera, June McNally
 
-## Group name (optional):
+## Group name:
 
-[delete this line and enter your group name here; if you don't have one, delete the whole section]
+Aquatic Squad
 
 ## Topic information and question
 
-**Topic:**  
-
-[delete this line and enter your topic here]
+Aquatic Invertebrates: What is the strength of the relationship between water temperature and invertebrate abundance (response variable)?
 
 **Question(s):**  
 
