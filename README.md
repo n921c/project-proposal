@@ -91,7 +91,7 @@ June McNally, Linda Herrera, Natalie Chen
 
 **Elective idea:**
 
-2D collage/drawing of copepod, ostracod, and cladoceran. Color based on abundance for a range of water temperatures
+Our elective idea is to a 2D collage/drawing of the most abundant taxa: copepod, ostracod, and cladoceran. Each figure will be colored based on a discrete color palette, each color represent a range of water temperature (ºC). The amount of a specific color represents proportionally how abundant the taxa was at that temperature range.
 
 **Elective timeline (what you will have completed each week):**
 
