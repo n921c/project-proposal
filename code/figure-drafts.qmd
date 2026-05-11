@@ -1,0 +1,5 @@
+---
+title: "figure-drafts"
+author: "Linda Herrera, Natalie Chen, June McNally"
+format: pdf
+---
