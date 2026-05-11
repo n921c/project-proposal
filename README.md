@@ -95,13 +95,29 @@ Our elective idea is to a 2D collage/drawing of the most abundant taxa: copepod,
 
 **Elective timeline (what you will have completed each week):**
 
-Week 7: enter your own text here
+Week 7:
 
-Week 8 (timeline check in): enter your own text here
+  - Create and set up project repo (Natalie)
+  - Confer and finalize ideas for analysis (Linda) 
+  - Start on background research (June)
+  - Complete plan for elective (everyone)
+  - Create rough plan of data cleaning and start cleaning
 
-Week 9: enter your own text here
+Week 8 (timeline check in): 
 
-Week 10: enter your own text here
+  - Review final draft of the proposal
+  - Continue data cleaning/wrangling
+  - Test out different visualizations, finalize which variables and visualizations will be optimal
+
+Week 9: 
+
+  - Continue on visualizations/curating background info
+  - Ensure that Github reflects an accurate timeline
+  - Gather materials for advanced elective
+
+Week 10: 
+
+  - Work on advanced elective -- base info off of data visualizaitons and understandings
 
 Finals week: enter your own text here
 
