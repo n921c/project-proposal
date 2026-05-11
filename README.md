@@ -56,13 +56,13 @@ Invertebrate abundance
 <img width="1667" height="917" alt="Image" src="https://github.com/user-attachments/assets/ba974796-ca17-4d64-91b6-404400796e68" />
 
 **Potential figure 2:**
-
+<img width="1667" height="917" alt="Image" src="https://github.com/user-attachments/assets/9b58b50f-bd39-4015-80d9-1a70a3037272" />
 
 **Potential figure 3:**
-
+<img width="1667" height="803" alt="Image" src="https://github.com/user-attachments/assets/30628a77-b0df-4695-a058-7f0314750e8e" />
 
 **Potential figure 4**
-
+<img width="1667" height="913" alt="Image" src="https://github.com/user-attachments/assets/bec3280c-db36-4212-9718-85447fcc89af" />
 
 ## Data cleaning/wrangling/summarizing plan
 
