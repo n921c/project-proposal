@@ -54,19 +54,19 @@ Invertebrate abundance
 
 **Potential figure 1:**
 
-[delete this line and enter your figure here]
+![](/Users/lindamarieherrera/github/project-proposal/potential_figure_1.jpg)
 
 **Potential figure 2:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![](/Users/lindamarieherrera/github/project-proposal/potential_figure_2.jpg)
 
 **Potential figure 3:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![](/Users/lindamarieherrera/github/project-proposal/potential_figure_3.jpg)
 
 **Potential figure 4**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![](/Users/lindamarieherrera/github/project-proposal/potential_figure_4.jpg)
 
 ## Data cleaning/wrangling/summarizing plan
 
@@ -76,22 +76,22 @@ Invertebrate abundance
 
 **Natural history/framing director:**
 
-June
+June McNally
 
 **Stats and visualization director**
 
-Linda
+Linda Herrera
 
 **GitHub/code director**
 
-Natalie
+Natalie Chen
 
 
 ## Elective (not required for all groups or group members)
 
 **Group members completing elective:**
 
-June, Linda, Natalie
+June McNally, Linda Herrera, Natalie Chen
 
 **Elective idea:**
 
