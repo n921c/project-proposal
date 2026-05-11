@@ -53,20 +53,16 @@ Invertebrate abundance
 ## Figures
 
 **Potential figure 1:**
-
-![](/Users/lindamarieherrera/github/project-proposal/potential_figure_1.jpg)
+<img width="1667" height="917" alt="Image" src="https://github.com/user-attachments/assets/ba974796-ca17-4d64-91b6-404400796e68" />
 
 **Potential figure 2:**
 
-![](/Users/lindamarieherrera/github/project-proposal/potential_figure_2.jpg)
 
 **Potential figure 3:**
 
-![](/Users/lindamarieherrera/github/project-proposal/potential_figure_3.jpg)
 
 **Potential figure 4**
 
-![](/Users/lindamarieherrera/github/project-proposal/potential_figure_4.jpg)
 
 ## Data cleaning/wrangling/summarizing plan
 
