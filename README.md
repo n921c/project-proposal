@@ -27,9 +27,7 @@ Note:
 
 Natalie Chen, Linda Herrera, June McNally
 
-## Group name:
-
-Aquatic Squad
+## Group name: Aquatic Squad
 
 ## Topic information and question
 
@@ -47,8 +45,8 @@ Invertebrate abundance
 
 **Datasets used:**
 
-- taxon_list.csv
-- Aquatic Sampling Data-2026-03-10.xlsx
+- `taxon_list.csv`
+- `Aquatic Sampling Data-2026-03-10.xlsx`
 
 ## Figures
 
@@ -66,7 +64,12 @@ Invertebrate abundance
 
 ## Data cleaning/wrangling/summarizing plan
 
-[delete this line and enter your own text here]
+- Import & join datasets
+- Clean and standardize variables
+- Derive new columns: calculate average water temp per sampling event, compute average abundance per liter, and add a season column from sampling dates.
+- Transform the response variable: apply a log+1 transformation to average abundance/L to create `log_ave_lit`, the y-axis variable used across all figures.
+- Filter to focal taxa (copepods, ostracods, cladocerans)
+- Resolve temporal scope: decide whether figures use a single year or the full dataset range before finalizing the summarized dataset.
 
 ## Project roles
 
@@ -115,12 +118,10 @@ Week 9:
   - Ensure that Github reflects an accurate timeline
   - Gather materials for advanced elective
 
-Week 10: 
+Finals week: 
 
-  - Work on advanced elective -- base info off of data visualizaitons and understandings
-
-Finals week: enter your own text here
-
+  - Final polish, compile everything together, and present the completed 2D collage 
+  
 
 
 
